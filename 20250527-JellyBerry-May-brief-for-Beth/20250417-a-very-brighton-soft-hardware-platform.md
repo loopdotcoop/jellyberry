@@ -20,14 +20,15 @@
 
 ---
 
-> - ❌ Phones seem completely owned by big tech…
-> - ❌ Smart-watches too…
-> - ✅ But bedside/tabletop devices, seems like a more open playing field
+> - ❌ Phones and desktop computers seem completely owned by big tech…
+> - ❌ Smart-watches are completely owned by big tech…
+> - ✅ But bedside/tabletop devices (lamps and speakers), seems like a more open
+    playing field
 
 ## 2. What Might Our Goals Be?
 
-* 🧪 Have a little Brighton workshop for moulding (resin, silicone), assembling
-  the electronics, testing, designing and shipping
+* 🧪 Have a little Brighton workshop for designing, moulding (resin, silicone),
+   assembling the electronics, testing, and shipping
 * 🌟 A growing product line of **small, fun, quirky devices:**
   * **Open hardware** (or semi-open)
   * **Open source software** (or semi-open)
@@ -55,20 +56,23 @@
 ## 4. The Concept
 
 A **(semi) open hardware and software platform**. Small batches of
-**one-off handcrafted devices**, which share a:
+**one-off handcrafted devices.**
 
 ### Minimum Specification *(early models)*
 
+* 💪 Rugged and completely waterproof and dustproof (has no ports)
 * 🔘 Four buttons on top
+* 🌈 720 individually addressable RGB LEDs sparkling near the surface
+* 💡 A dozen nicely dimmable RGB LEDs, glowing deep inside
 * ⚡ Wireless charging underneath
 * 📱 Bluetooth connection to a smartphone app
-* 🌈 720 individually addressable RGB LEDs
 
-### Midrange Features
+### Midrange Features *(in year 2)*
 
 * 🔵 Small circular touchscreen, for use **without a smartphone**.
 * 📡 Wi-Fi in addition to Bluetooth
 * 🔊 Basic internal loudspeaker
+* 🌡️ Light sensors
 * 🌈 More LEDs!
 
 ### Premium Features *(in a few years)*
@@ -77,6 +81,7 @@ A **(semi) open hardware and software platform**. Small batches of
 * 🔊 High quality loudspeaker (security and privacy is a priority)
 * 🗣️ Microphone, for voice-activation
 * 💾 Internal (hidden) MicroSD card slot for local storage
+* 🌡️ Temperature and motion sensors
 * 🌈 Even more LEDs!!
 
 ---
@@ -86,10 +91,32 @@ A **(semi) open hardware and software platform**. Small batches of
 * 🆓 Some free, some freemium
 * 🛠️ Some made by us
 * 🌐 Some by other devs (curated)
-* ⚠️ It could also be good to allow apps from outside the app store to be
-  installed, maybe by opening up a JellyBerry and setting it to 'Jailbreak'
-  mode using its hidden internal USB connector. A **“Wild West”** of open-source
-  apps — *“install on your device at your own peril!”*
+
+### App Ideas
+
+- Time bubble pomodoro
+- Tide Times
+- Breath coach
+- Moon Phase
+- Coloured touch controlled lamp
+- White noise / sea sounds
+- Sunrise alarm
+- AI chat with voice input reactive LEDS
+- Graphic equaliser for sound reactive visualisation
+- DAB and internet radio
+- Bluetooth Speaker (pair up to 6 for 5:1 surround)
+- Clock
+- Stopwatch and Timer
+- Wireless Hard Drive (just needs a micro SD slot)
+- MP3 player
+- Voice note recorder
+- Voice calls over WiFi
+- Games
+
+⚠️ It could also be good to allow apps from outside the app store to be
+installed, maybe by opening up a JellyBerry and setting it to 'Jailbreak'
+mode using its hidden internal USB connector. A **“Wild West”** of open-source
+apps — *“install on your device at your own peril!”*
 
 ---
 
