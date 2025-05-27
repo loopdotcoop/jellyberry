@@ -1,12 +1,10 @@
 # A Very Brighton Soft/Hardware Platform
 
-**3 days' work, following our Friday 23rd call**
-
 - Version: 1
 - Created: 27th May 2025 by Rich Plastow
 - Based on notes from a call with Ian, 17th April 2025
 
-> Following a great call with Ian this morning, I think we’re pretty aligned on this project — it’s really exciting 😌
+> **Following a great call with Ian this morning, I think we’re pretty aligned on this project — it’s really exciting 😌**
 
 ---
 
@@ -20,8 +18,8 @@
 
 ---
 
-> - ❌ Phones and desktop computers seem completely owned by big tech…
-> - ❌ Smart-watches are completely owned by big tech…
+> - ❌ Phones and desktop computers and smart-watches seem completely owned by
+  the big tech companies…
 > - ✅ But bedside/tabletop devices (lamps and speakers), seems like a more open
     playing field
 
@@ -33,7 +31,7 @@
   * **Open hardware** (or semi-open)
   * **Open source software** (or semi-open)
   * **Handcrafted in small batches**
-  * **Waterproof** and **Wireless charging**
+  * **Tough** and **waterproof**
   * **Customisable**
 * 🛒 A website which sells the physical devices **and** has its own app store
 * 👥 1000 customers who like quirky tech, in the first year
@@ -43,7 +41,7 @@
 
 ---
 
-## 3. Inspiring Projects and Companies
+## 3. Projects and Companies to Inspire Us
 
 * [gomi.design](https://gomi.design)
 * [weezandmerl.com](https://weezandmerl.com)
@@ -72,25 +70,38 @@ A **(semi) open hardware and software platform**. Small batches of
 * 🔵 Small circular touchscreen, for use **without a smartphone**.
 * 📡 Wi-Fi in addition to Bluetooth
 * 🔊 Basic internal loudspeaker
-* 🌡️ Light sensors
+* 👁️ Light sensors
 * 🌈 More LEDs!
 
 ### Premium Features *(in a few years)*
 
 * 🔵 Larger circular touchscreen
-* 🔊 High quality loudspeaker (security and privacy is a priority)
-* 🗣️ Microphone, for voice-activation
+* 🔊 High quality loudspeaker
+* 🗣️ Microphone, for voice-activation (security and privacy is a priority)
 * 💾 Internal (hidden) MicroSD card slot for local storage
 * 🌡️ Temperature and motion sensors
 * 🌈 Even more LEDs!!
 
 ---
 
-## (Semi) Open Source App Store
+## App Store
 
-* 🆓 Some free, some freemium
+* 🆓 Some paid, some free, some freemium
 * 🛠️ Some made by us
 * 🌐 Some by other devs (curated)
+* 🧑‍💻 Some fully open source, some 'semi' open source
+
+All app code and data passes through JellyBerry servers, so that we can block
+insecure, malicious or inappropriate usage, and guarantee our users' privacy.
+This may also lead to other revenue streams, because JellyBerry will be the
+trusted source of server-side services like voice recognition and chat APIs.
+
+> ⚠️ Users can opt-in to 'Jailbreak' mode, which allows a JellyBerry to run
+> untrusted apps from outside the app store. Every JellyBerry has a hidden
+> internal USB connector, which can be used to connect it to a computer running
+> the JellyBerry command-line utility. This can then install apps from outside
+> the app store. It's a **“Wild West”** of open-source apps — *“install on your
+> device at your own peril!”*
 
 ### App Ideas
 
@@ -101,7 +112,7 @@ A **(semi) open hardware and software platform**. Small batches of
 - Coloured touch controlled lamp
 - White noise / sea sounds
 - Sunrise alarm
-- AI chat with voice input reactive LEDS
+- AI chat with voice input and reactive LEDS
 - Graphic equaliser for sound reactive visualisation
 - DAB and internet radio
 - Bluetooth Speaker (pair up to 6 for 5:1 surround)
@@ -112,11 +123,6 @@ A **(semi) open hardware and software platform**. Small batches of
 - Voice note recorder
 - Voice calls over WiFi
 - Games
-
-⚠️ It could also be good to allow apps from outside the app store to be
-installed, maybe by opening up a JellyBerry and setting it to 'Jailbreak'
-mode using its hidden internal USB connector. A **“Wild West”** of open-source
-apps — *“install on your device at your own peril!”*
 
 ---
 
