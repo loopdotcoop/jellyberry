@@ -1,2 +1,4 @@
-# jellyberry
-A platform for playful pioneers.
+# JellyBerry
+
+> Coming Soon!
+
