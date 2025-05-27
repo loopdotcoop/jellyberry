@@ -38,6 +38,10 @@ the recent images and videos of Ian's LED prototypes:
 
 ### 2. Use AI to generate images and video-clips, visualising the concept
 
+**To some extent, you are designing the look of JellyBerry here. Its form, but
+also the way the lights and colours work, and the way the devices interact with
+each other. So this is a really important task, and I think it will be fun too!**
+
 #### Image generation, just from text prompts
 
 I've found that ChatGPT/Sora creates very high quality images from prompts, but
@@ -117,12 +121,18 @@ of June.
 
 ## Tasks for June 2025
 
-### 4. Finish 2 videos (~5 minutes each) to introduce people to the project
+### 4. Finish 2 videos (~5 minutes each)
 
-This is more of a stretch-goal for May I think - but it would be great to have
-the rough beginnings of one video ready by the start of June.
+One will be a broad vision, introducing people to the concept
 
-### 5. Create 2 image galleries, which will become carousels on the project page
+The other could be a 'making of' video, showing how the concept has developed,
+and how the prototypes have been made. 
+
+### 5. Create 2 image galleries
+
+These will become carousels on the project page.
+
+Probably one gallery related to to each video.
 
 ### 6. Write the text for the project page
 
@@ -135,6 +145,7 @@ Here's a suggestion for the sections:
 - Team
 - Get involved
 
-### 7. Create https://loop.coop/projects/jellyberry/ - this will be the first
-   'Proposed Project' page on the relaunched Loop.Coop website
+### 7. Create https://loop.coop/projects/jellyberry/
 
+This will be the first 'Proposed Project' page on the relaunched Loop.Coop
+website 🎉 🚀
