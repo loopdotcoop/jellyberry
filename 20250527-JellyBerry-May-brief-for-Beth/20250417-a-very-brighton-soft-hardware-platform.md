@@ -12,16 +12,16 @@
 
 * 🎛️ Fun little microcontroller projects
 * 🤖 Making a cool product
-* 💧 A robust, waterproof device for the home
+* 💧 A robust, waterproof device for the home and outdoors
 * 🌱 Ethical, eco, community
 * 🚀 Doing a start-up together
 
 ---
 
-> - ❌ Phones and desktop computers and smart-watches seem completely owned by
+> - ❌ Phones, desktop computers and smart-watches seem completely owned by
   the big tech companies…
-> - ✅ But bedside/tabletop devices (lamps and speakers), seems like a more open
-    playing field
+> - ✅ …But bedside/tabletop devices (lamps and speakers), seems like a more open
+  playing field
 
 ## 2. What Might Our Goals Be?
 
@@ -36,8 +36,8 @@
 * 🛒 A website which sells the physical devices **and** has its own app store
 * 👥 1000 customers who like quirky tech, in the first year
 * 👩‍💻 After a few years, 3 or 4 full-time staff
-* 🌐 A really active community of hackers/developers, building apps for the
-  JellyBerry (curated) app store
+* 🌐 A really active community of hackers/developers, building apps for
+  JellyBerry's (curated) app store
 
 ---
 
@@ -56,39 +56,47 @@
 A **(semi) open hardware and software platform**. Small batches of
 **one-off handcrafted devices.**
 
-### Minimum Specification *(early models)*
+### Minimum Specification *(early models, smallest)*
 
-* 💪 Rugged and completely waterproof and dustproof (has no ports)
+* 💪 Rugged and completely waterproof/dustproof (has no external ports)
 * 🔘 Four buttons on top
-* 🌈 720 individually addressable RGB LEDs sparkling near the surface
-* 💡 A dozen nicely dimmable RGB LEDs, glowing deep inside
-* ⚡ Wireless charging underneath
 * 📱 Bluetooth connection to a smartphone app
+* 🔌 internal USB port hidden inside, for development and debugging
+* 🔊 Cheap internal loudspeaker
+* ⚡ Wireless charging receiver, underneath
+* 🔋 1 or 2 rechargeable batteries inside - users can swap these
+* 🌈 360 individually addressable RGB LEDs sparkling near the surface
+* 💡 6 nicely dimmable RGB LEDs, glowing deep inside
+* 🧭 Gyroscope and accelerometer
 
-### Midrange Features *(in year 2)*
+### Additional Features - Midrange *(in year 2)*
 
 * 🔵 Small circular touchscreen, for use **without a smartphone**.
 * 📡 Wi-Fi in addition to Bluetooth
-* 🔊 Basic internal loudspeaker
+* 🔊 Better loudspeaker
+* 🔋 3 or 4 batteries
+* 🌈 720 individually addressable RGB LEDs near the surface
+* 💡 12 dimmable RGB LEDs, deep inside
 * 👁️ Light sensors
-* 🌈 More LEDs!
 
-### Premium Features *(in a few years)*
+### Additional Features - Premium *(in a few years, biggest)*
 
 * 🔵 Larger circular touchscreen
-* 🔊 High quality loudspeaker
-* 🗣️ Microphone, for voice-activation (security and privacy is a priority)
+* 🔊 High quality loudspeaker, excellent bass
+* ⚡ Wireless charging transmitter, for charging other devices
+* 🔋 More batteries, for long battery life
+* 🌈 1440 individually addressable RGB LEDs near the surface
+* 💡 24 dimmable RGB LEDs, at different depths inside
+* 🗣️ Microphone for voice-activation (security and privacy is a priority)
+* 🌡️ Temperature and other sensors
 * 💾 Internal (hidden) MicroSD card slot for local storage
-* 🌡️ Temperature and motion sensors
-* 🌈 Even more LEDs!!
 
 ---
 
 ## App Store
 
 * 🆓 Some paid, some free, some freemium
-* 🛠️ Some made by us
-* 🌐 Some by other devs (curated)
+* 🛠️ Some made by us, some by other devs (curated)
 * 🧑‍💻 Some fully open source, some 'semi' open source
 
 All app code and data passes through JellyBerry servers, so that we can block
@@ -118,7 +126,8 @@ trusted source of server-side services like voice recognition and chat APIs.
 - Bluetooth Speaker (pair up to 6 for 5:1 surround)
 - Clock
 - Stopwatch and Timer
-- Wireless Hard Drive (just needs a micro SD slot)
+- Wireless Hard Drive
+- Wireless charger for your phone and earbuds
 - MP3 player
 - Voice note recorder
 - Voice calls over WiFi
